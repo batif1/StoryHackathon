@@ -1,4 +1,11 @@
-Legal Disclaimer and AI Assistance Disclosure
+## Hackathon Context Only
+The code in this repository was submitted as part of a hackathon and is not intended for use within an academic context. The code and any derivatives or copies of it should never be submitted for academic credit, coursework, or in any situation where academic integrity or original authorship is required.
+
+By accessing or using this code, you acknowledge that it was created solely for the purposes of the hackathon and that its submission and use are outside the scope of academic work. Any attempt to use, submit, or present this code as part of an academic project, research, or any other academic context is strictly prohibited.
+
+The repository owners, hackathon organizers, and any associated parties are not liable for any academic or institutional consequences that may arise from improper use of the code in academic settings.
+
+## Legal Disclaimer and AI Assistance Disclosure
 
 By accessing, using, or contributing to this repository, you acknowledge and agree to the following terms regarding the use of generative AI in the development of the code and documentation:
 
